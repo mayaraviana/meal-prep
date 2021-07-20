@@ -1,5 +1,7 @@
 # Vue SPA (meal-prep)
 
+![image da página final](./assets-readme/spa.png)
+
 A Quasar Framework app
 
 ## Install the dependencies
